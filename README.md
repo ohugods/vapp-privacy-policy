@@ -16,4 +16,4 @@ Para dúvidas sobre esta política: hugo.devbr@gmail.com
 
 ## Acesso online
 
-A política de privacidade está disponível online em: [link do GitHub Pages]
+A política de privacidade está disponível online em: https://ohugods.github.io/vapp-privacy-policy/
